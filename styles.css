@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+}
+/* font-family: 'Caprasimo', cursive;
+font-family: 'Montserrat', sans-serif; */
+h1 {
+  font-size: 64px;
+  font-family: 'Caprasimo', cursive;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
